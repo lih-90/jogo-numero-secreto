@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: white;
+    color: #18de33;
 }
 
 body {
@@ -33,7 +33,7 @@ body::before {
     align-items: center;
     justify-content: space-between;
     border-radius: 24px;
-    border: 1px solid #1875E8;
+    border: 1px solid #18de33;
     box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
     background-image: url("img/Ruido.png");
     background-size: 100% 100%;
@@ -55,7 +55,7 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
-    background: #1875E8;
+    background: #000000;
     padding: 16px 24px;
     width: 100%;
     font-size: 24px;
@@ -78,7 +78,7 @@ body::before {
     border-radius: 16px;
     background-color: #FFF;
     border: none;
-    color: #1875E8;
+    color: #18de33;
     padding: 2rem;
     font-size: 24px;
     font-weight: 700;
@@ -107,7 +107,7 @@ button {
 }
 
 button:disabled {
-    background-color: gray;
+    background-color: rgb(123, 123, 123);
 }
 
 @media screen and (max-width: 1250px) {
