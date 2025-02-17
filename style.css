@@ -107,7 +107,7 @@ button {
 }
 
 button:disabled {
-    background-color: rgb(123, 123, 123);
+    background-color: rgb(129, 129, 129);
 }
 
 @media screen and (max-width: 1250px) {
